@@ -15,6 +15,7 @@ while True:
 ```
 
 `from machine import Pin` підключення бібліотеки для роботи з GPIO
+
 `from utime import sleep` підключення бібліотеки для роботи з затримкою
 ```python
 Pin("Номер GPIO", "Режим роботи GPIO")
