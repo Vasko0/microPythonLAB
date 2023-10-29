@@ -1,6 +1,6 @@
 # microPythonLAB
 
-[Симулятор RaspberyPi](https://wokwi.com/projects/300504213470839309)
+[Симулятор RaspberyPi](https://wokwi.com/projects/379923617507687425)
 ```python
 from machine import Pin
 from utime import sleep
